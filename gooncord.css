@@ -18,14 +18,14 @@
 }
 
 :root {
-	--bgImage: url(https://img5.goodfon.com/original/2560x1440/9/24/astronaut-propast-noch-nebo-planeta-fantastika-skafandr.jpg);
-	--HomeButtonImg: url(https://arudarin.github.io/themes/neutron/import/homeBtn.png);
-	--brightness: 0.4;
-	--customFont: 'Montserrat';
-	--PrimaryColor01: rgb(32, 197, 119);
-	--PrimaryColorRGBA: rgba(32, 197, 119, 0.15);
-	--PrimaryColor02: #07a8c5;
-	--links: #3366ff;
+	--bgImage: url(https://cdn.discordapp.com/attachments/649782649996574733/681766046713118723/Untitled-1.png);
+	--HomeButtonImg: url(https://media.giphy.com/media/xT77XUjQrAVQmf4jFS/source.gif);
+	--brightness: 0.5;
+	--customFont: 'ABeeZee';
+	--PrimaryColor01: rgba(255,3,85,1);
+	--PrimaryColorRGBA: rgba(187,122,43,.15);
+	--PrimaryColor02: rgba(255,48,121,1);
+	--links: rgba(255,31,104,1);
 	--DangerColor: #dc3545;
 	--WarningColor: #ffc107;
 	--SuccesColor: #28a745;
@@ -36,9 +36,9 @@
 	--InfoColor02: #117888;
 	--DefaultColor: #6c757d;
 	--DefaultColor02: #5a6268;
-	--ChatTextColor: hsla(0, 100%, 100%, 1);
-	--RoleTitleColor: hsla(0, 100%, 100%, .95);
-	--UserPlayingTextColor: hsla(0, 100%, 100%, .6);
+	--ChatTextColor: #ffffff;
+	--RoleTitleColor: rgba(255,48,121,1);
+	--UserPlayingTextColor: rgba(255,48,121,1);
 	--ChannelsSelectedTextColor: hsla(0, 100%, 100%, .95);
 	--ChannelsDefaultTextColor: hsla(0, 100%, 100%, .6);
 	--ChannelsDarkTextColor: hsla(0, 100%, 100%, .2);
